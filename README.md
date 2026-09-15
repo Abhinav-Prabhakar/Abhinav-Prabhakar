@@ -22,3 +22,5 @@
 - [CampusGenie](https://github.com/Abhinav-Prabhakar/CampusGenie) — Ask anything about your college campus 🧞
 - [Warden](https://github.com/Abhinav-Prabhakar/Warden) — The ward, at a glance. 🏥
 - [CrimeLens](https://github.com/Abhinav-Prabhakar/CrimeLens) — See the network behind the evidence. 🕸️
+- [Dock](https://github.com/Abhinav-Prabhakar/Dock) — Airlines have dynamic pricing. Ships should too. 🚢✈️
+
