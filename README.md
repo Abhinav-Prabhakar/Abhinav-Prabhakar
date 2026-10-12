@@ -25,5 +25,5 @@
 - [Dock](https://github.com/Abhinav-Prabhakar/Dock) — Airlines have dynamic pricing. Ships should too. 🚢✈️
 - [Mantle](https://github.com/Abhinav-Prabhakar/Mantle) — Keep the pump alive. 🛢️🔥
 - [Brew](https://github.com/Abhinav-Prabhakar/Brew) — The cafe that learns. 🥐🤎
-- [Brew](https://github.com/Abhinav-Prabhakar/Pantry) — A week of food planned around your nutrient targets 🍏🥐
+- [Pantry](https://github.com/Abhinav-Prabhakar/Pantry) — A week of food planned around your nutrient targets 🍏🥐
 
