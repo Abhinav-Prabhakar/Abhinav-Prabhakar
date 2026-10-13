@@ -6,7 +6,6 @@
 - 📫 Reach me through CodeDreamer06@gmail.com or midnight._rider on discord
 
 ## Current Projects
-- [Crumb](https://github.com/Abhinav-Prabhakar/Crumb) — Build recipes that are a chef's kiss 🧑‍🍳 
 - [Flipwise](https://github.com/Abhinav-Prabhakar/Flipwise) — Conjure flashcards in a flash ✨
 - [GrainCLI](https://github.com/Abhinav-Prabhakar/GrainCLI) — Ritual-based focus tracker for the terminal. Zero sync. Zero bloat. Just credits 🧠 and breaks ☕
 - [Papyrus](https://github.com/Abhinav-Prabhakar/Papyrus) — Turn textbooks into tests at scroll speed 📜
