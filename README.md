@@ -26,4 +26,5 @@
 - [Brew](https://github.com/Abhinav-Prabhakar/Brew) — The cafe that learns. 🥐🤎
 - [Pantry](https://github.com/Abhinav-Prabhakar/Pantry) — A week of food planned around your nutrient targets 🍏🥐
 - [RakeMeter](https://github.com/Abhinav-Prabhakar/RakeMeter) — Plan the unloading, audit the railway's bill. 🚂
+- [Parlor](https://github.com/Abhinav-Prabhakar/Parlor) — Every store, every channel, one clear picture. 🛍️
 
