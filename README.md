@@ -30,4 +30,6 @@
 - [CodingClub](https://github.com/Abhinav-Prabhakar/CodingClub) — Windows XP Style Landing for our college's coding club 📟
 - [Parlor](https://github.com/Abhinav-Prabhakar/Parlor) — Every store, every channel, one clear picture. 🛍️
 - [Sentry](https://github.com/Abhinav-Prabhakar/Sentry) — Track risks across continents 🗺️
+- [ECEDefinitions](https://github.com/Abhinav-Prabhakar/ECEDefinitions) — Learn ECE one-liner definitions 🔋
+- [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
 
