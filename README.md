@@ -7,16 +7,30 @@
 
 ## Projects
 
-**Jump to:** [Learning & Exams](#-learning--exams) · [Productivity](#-productivity) · [AI & Agents](#-ai--agents) · [Health & Food](#-health--food) · [Legal, Safety & Risk](#%EF%B8%8F-legal-safety--risk) · [Logistics & Industry](#-logistics--industry) · [Retail & Hospitality](#%EF%B8%8F-retail--hospitality) · [Fun & Community](#-fun--community)
+**Jump to:** [Learning & Exams](#-learning--exams) · [Definitions](#-one-liner-definitions) · [Productivity](#-productivity) · [AI & Agents](#-ai--agents) · [Health & Food](#-health--food) · [Legal, Safety & Risk](#%EF%B8%8F-legal-safety--risk) · [Logistics & Industry](#-logistics--industry) · [Retail & Hospitality](#%EF%B8%8F-retail--hospitality) · [Fun & Community](#-fun--community)
 
 ### 📚 Learning & Exams
 - [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
 - [CampusGenie](https://github.com/Abhinav-Prabhakar/CampusGenie) — Ask anything about your college campus 🧞
-- [ECEDefinitions](https://github.com/Abhinav-Prabhakar/ECEDefinitions) — Learn ECE one-liner definitions 🔋
 - [Flipwise](https://github.com/Abhinav-Prabhakar/Flipwise) — Conjure flashcards in a flash ✨
 - [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
 - [Papyrus](https://github.com/Abhinav-Prabhakar/Papyrus) — Turn textbooks into tests at scroll speed 📜
 - [Wordy](https://github.com/Abhinav-Prabhakar/Wordy) — Glossy TUI for rare, useful vocabulary 🧋✨
+
+### 📖 One-Liner Definitions
+- **Engineering & Trades**
+  - [ECEDefinitions](https://github.com/Abhinav-Prabhakar/ECEDefinitions) — Learn ECE one-liner definitions 🔋
+  - [HVACDefinitions](https://github.com/Abhinav-Prabhakar/HVACDefinitions) — Learn HVAC one-liner definitions ❄️
+  - [NECDefinitions](https://github.com/Abhinav-Prabhakar/NECDefinitions) — Learn NEC electrical code one-liner definitions ⚡
+  - [PlumbingDefinitions](https://github.com/Abhinav-Prabhakar/PlumbingDefinitions) — Learn plumbing code one-liner definitions 🚰
+  - [SoftwareDefinitions](https://github.com/Abhinav-Prabhakar/SoftwareDefinitions) — Learn software interview one-liner definitions 💻
+- **Health & Medicine**
+  - [AnatomyDefinitions](https://github.com/Abhinav-Prabhakar/AnatomyDefinitions) — Learn anatomy one-liner definitions 🫀
+  - [MedicalDefinitions](https://github.com/Abhinav-Prabhakar/MedicalDefinitions) — Learn medical terminology one-liner definitions 🩺
+  - [NursingDefinitions](https://github.com/Abhinav-Prabhakar/NursingDefinitions) — Learn NCLEX nursing one-liner definitions 🩹
+  - [PharmacologyDefinitions](https://github.com/Abhinav-Prabhakar/PharmacologyDefinitions) — Learn pharmacology one-liner definitions 💊
+- **Law**
+  - [LegalDefinitions](https://github.com/Abhinav-Prabhakar/LegalDefinitions) — Learn US law one-liner definitions ⚖️
 
 ### ⏱ Productivity
 - [GrainCLI](https://github.com/Abhinav-Prabhakar/GrainCLI) — Ritual-based focus tracker for the terminal. Zero sync. Zero bloat. Just credits 🧠 and breaks ☕
