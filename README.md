@@ -84,6 +84,7 @@
 
 ### 🚨 Safety, Law & Cities
 - [CrimeLens](https://github.com/Abhinav-Prabhakar/CrimeLens) — See the network behind the evidence. 🕸️
+- [Cockpit](https://github.com/Abhinav-Prabhakar/Cockpit) — A photoreal 3D fire dispatch console, right in your browser 🚒
 - [Sentry](https://github.com/Abhinav-Prabhakar/Sentry) — Track risks across continents 🗺️
 - [Siren](https://github.com/Abhinav-Prabhakar/Siren) — AI agent that dispatches and coordinates fire station crews, vehicles and equipment 🚒
 - [Verge](https://github.com/Abhinav-Prabhakar/Verge) — AI-driven smart traffic monitoring and analytics 🚦
