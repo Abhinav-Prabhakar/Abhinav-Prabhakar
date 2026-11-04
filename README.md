@@ -36,6 +36,7 @@
 
 ### 💻 Coding & Hackathons
 - [CodingSubRanking](https://github.com/Abhinav-Prabhakar/CodingSubRanking) — Analysis of the best value coding subscriptions, accounting for both monthly allowance + token consumption per task 🧺
+- [Jury](https://github.com/Abhinav-Prabhakar/Jury) — An AI judging panel for hackathons 🔮📜
 - [LeetGo](https://github.com/Abhinav-Prabhakar/LeetGo) — A tiny bot tracking your LeetCode wins 🔥
 - **Unstop hackathon search**
   - [UnstopAPI](https://github.com/Abhinav-Prabhakar/UnstopAPI) — Search Unstop hackathons with a clean Python API 👀
