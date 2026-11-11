@@ -111,5 +111,6 @@
 
 ### ♟️ Chess & Games
 - [EloGrapher](https://github.com/Abhinav-Prabhakar/EloGrapher) — Compare your chess rating with friends, do whatever 👀
+- [KeyChange](https://github.com/Abhinav-Prabhakar/KeyChange) — Turn any MIDI piano into a keyboard 🎹
 - [PiTiles](https://github.com/Abhinav-Prabhakar/PiTiles) — Piano tiles for π, with MIDI support 🥧
 - [ThinkFish2](https://github.com/Abhinav-Prabhakar/ThinkFish2) — MCP server pairing Stockfish with an LLM for chess analysis ♟️
