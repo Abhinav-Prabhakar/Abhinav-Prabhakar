@@ -7,7 +7,7 @@
 
 ## Projects
 
-**Jump to:** [Learning](#-learning--exams) · [Definitions](#-one-liner-definitions) · [Coding & Hackathons](#-coding--hackathons) · [Campus](#-campus--community) · [AI Apps](#-ai-apps--agents) · [MCP Servers](#-mcp-servers) · [Dev Tools](#-developer-tools) · [Productivity](#-productivity--habits) · [Health & Food](#-health--food) · [Safety & Cities](#-safety-law--cities) · [Logistics](#-logistics--industry) · [Retail](#%EF%B8%8F-retail--hospitality) · [Hardware](#-hardware--iot) · [Chess & Games](#%EF%B8%8F-chess--games)
+**Jump to:** [Learning](#-learning--exams) · [Definitions](#-one-liner-definitions) · [Coding & Hackathons](#-coding--hackathons) · [Campus](#-campus--community) · [AI Apps](#-ai-apps--agents) · [MCP Servers](#-mcp-servers) · [Dev Tools](#-developer-tools) · [Productivity](#-productivity--habits) · [Health & Food](#-health--food) · [Safety & Cities](#-safety-law--cities) · [Logistics](#-logistics--industry) · [Retail](#%EF%B8%8F-retail--hospitality) · [Hardware](#-hardware--iot) · [Music & Audio](#-music--audio) · [Chess & Games](#%EF%B8%8F-chess--games)
 
 ### 📚 Learning & Exams
 - [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
@@ -109,8 +109,10 @@
 - [Vera](https://github.com/Abhinav-Prabhakar/Vera) — Hydroponic Greenhouse on ESP8266 hardware 🌱
 - [Vista](https://github.com/Abhinav-Prabhakar/Vista) — Control your MG EV from your phone 📱
 
+### 🎵 Music & Audio
+- [KeyChange](https://github.com/Abhinav-Prabhakar/KeyChange) — Turn any MIDI piano into a keyboard 🎹
+
 ### ♟️ Chess & Games
 - [EloGrapher](https://github.com/Abhinav-Prabhakar/EloGrapher) — Compare your chess rating with friends, do whatever 👀
-- [KeyChange](https://github.com/Abhinav-Prabhakar/KeyChange) — Turn any MIDI piano into a keyboard 🎹
 - [PiTiles](https://github.com/Abhinav-Prabhakar/PiTiles) — Piano tiles for π, with MIDI support 🥧
 - [ThinkFish2](https://github.com/Abhinav-Prabhakar/ThinkFish2) — MCP server pairing Stockfish with an LLM for chess analysis ♟️
