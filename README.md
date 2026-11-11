@@ -15,8 +15,10 @@
 - [Fold](https://github.com/Abhinav-Prabhakar/Fold) — 5-minute book summaries to fuel your mind 📚✨
 - [Folio](https://github.com/Abhinav-Prabhakar/Folio) — Six classics a day, then a quiz on what stuck 📚🖋️
 - [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
+- [PAO](https://github.com/Abhinav-Prabhakar/PAO) — Memorize numbers in PAO, drawn in ASCII 🉑
 - [Papyrus](https://github.com/Abhinav-Prabhakar/Papyrus) — Turn textbooks into tests at scroll speed 📜
 - [Redpen](https://github.com/Abhinav-Prabhakar/Redpen) — Adaptive interview assessments with rubric-based scoring 🖍️
+- [Teacher](https://github.com/Abhinav-Prabhakar/Teacher) — An LLM Teacher with a whiteboard 🧑‍🏫
 - [Wordy](https://github.com/Abhinav-Prabhakar/Wordy) — Glossy TUI for rare, useful vocabulary 🧋✨
 
 ### 📖 One-Liner Definitions
@@ -36,6 +38,7 @@
 
 ### 💻 Coding & Hackathons
 - [CodingSubRanking](https://github.com/Abhinav-Prabhakar/CodingSubRanking) — Analysis of the best value coding subscriptions, accounting for both monthly allowance + token consumption per task 🧺
+- [GitCode](https://github.com/Abhinav-Prabhakar/GitCode) — Leetcode, but for Git 🖲️
 - [Jury](https://github.com/Abhinav-Prabhakar/Jury) — An AI judging panel for hackathons 🔮📜
 - [LeetGo](https://github.com/Abhinav-Prabhakar/LeetGo) — A tiny bot tracking your LeetCode wins 🔥
 - **Unstop hackathon search**
@@ -47,6 +50,7 @@
 - [CampusGenie](https://github.com/Abhinav-Prabhakar/CampusGenie) — Ask anything about your college campus 🧞
 - [CNPDepartment](https://github.com/Abhinav-Prabhakar/CNPDepartment) — Student Managed Clubs and GUIITAR Projects at GSFC University. 🏄
 - [CodingClub](https://github.com/Abhinav-Prabhakar/CodingClub) — Windows XP Style Landing for our college's coding club 📟
+- [JusticeLeagues](https://github.com/Abhinav-Prabhakar/JusticeLeagues) — Helping citizens organise community efforts in building better societies 🦋
 
 ### 🤖 AI Apps & Agents
 - [Drift](https://github.com/Abhinav-Prabhakar/Drift) — Fast, refined AI image studio 🌈
@@ -64,6 +68,7 @@
 - [Board](https://github.com/Abhinav-Prabhakar/Board) — A local-first, collaborative whiteboard app built for devs 📟
 - [Cellar](https://github.com/Abhinav-Prabhakar/Cellar) — A visual field guide to sixteen Homebrew CLI tools 🦹
 - [comp2resp](https://github.com/Abhinav-Prabhakar/comp2resp) — Convert /chat/completions into /responses APIs for openai compatible endpoints 🔌
+- [Meow](https://github.com/Abhinav-Prabhakar/Meow) — Vibe-coder friendly Git CLI 😼
 - [ReactSpeedrunTools](https://github.com/Abhinav-Prabhakar/ReactSpeedrunTools) — Tools to speedrun development 🏎️
 
 ### ⏱ Productivity & Habits
@@ -88,6 +93,7 @@
 - [Cockpit](https://github.com/Abhinav-Prabhakar/Cockpit) — Mission control for the firehouse. 🚒🔥
 - [Sentry](https://github.com/Abhinav-Prabhakar/Sentry) — Track risks across continents 🗺️
 - [Siren](https://github.com/Abhinav-Prabhakar/Siren) — AI agent that dispatches and coordinates fire station crews, vehicles and equipment 🚒
+- [ProjectMetro](https://github.com/Abhinav-Prabhakar/ProjectMetro) — Live-tracking for all Indian metros 🚇🇮🇳
 - [Verge](https://github.com/Abhinav-Prabhakar/Verge) — AI-driven smart traffic monitoring and analytics 🚦
 
 ### 🚚 Logistics & Industry
@@ -101,6 +107,7 @@
 
 ### 🌱 Hardware & IoT
 - [Vera](https://github.com/Abhinav-Prabhakar/Vera) — Hydroponic Greenhouse on ESP8266 hardware 🌱
+- [Vista](https://github.com/Abhinav-Prabhakar/Vista) — Control your MG EV from your phone 📱
 
 ### ♟️ Chess & Games
 - [EloGrapher](https://github.com/Abhinav-Prabhakar/EloGrapher) — Compare your chess rating with friends, do whatever 👀
