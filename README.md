@@ -11,6 +11,8 @@
 
 ### 📚 Learning & Exams
 - [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
+- [Askesis](https://github.com/Abhinav-Prabhakar/Askesis) — Philosophy made accessible to GenZ 🧢
+- [Chunky](https://github.com/Abhinav-Prabhakar/Chunky) — RSVP word chunks 🪵
 - [Flipwise](https://github.com/Abhinav-Prabhakar/Flipwise) — Conjure flashcards in a flash ✨
 - [Folio](https://github.com/Abhinav-Prabhakar/Folio) — Six classics a day, then a quiz on what stuck 📚🖋️
 - [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
@@ -60,8 +62,8 @@
 
 ### 🔌 MCP Servers
 - [AnnasArchiveMCP](https://github.com/Abhinav-Prabhakar/AnnasArchiveMCP) — Rust MCP server for book search and safe downloads 📦
-- [BookDownloaderMCP](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) — Search Library Genesis and download ebooks from any MCP client 📚
-- [MonkeytypeMCP](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) — Typing stats, results and leaderboards from Monkeytype in your MCP client ⌨️
+- [BookDownloaderMCP](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) — An MCP server for quickly downloading books! 📕
+- [MonkeytypeMCP](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) — An MCP server for MonkeyType users! ⌨️
 
 ### 🔧 Developer Tools
 - [Board](https://github.com/Abhinav-Prabhakar/Board) — A local-first, collaborative whiteboard app built for devs 📟
@@ -71,6 +73,7 @@
 - [ReactSpeedrunTools](https://github.com/Abhinav-Prabhakar/ReactSpeedrunTools) — Tools to speedrun development 🏎️
 
 ### ⏱ Productivity & Habits
+- [CueScreenWriter](https://github.com/Abhinav-Prabhakar/CueScreenWriter) — Screenplay writing app for MacOS 🎬
 - [GrainCLI](https://github.com/Abhinav-Prabhakar/GrainCLI) — Ritual-based focus tracker for the terminal. Zero sync. Zero bloat. Just credits 🧠 and breaks ☕
 - [Habie](https://github.com/Abhinav-Prabhakar/Habie) — Your usual habit tracker, that's all ✨💫
 - [LifeOS](https://github.com/Abhinav-Prabhakar/LifeOS) — Gamifying life ✨🎮
