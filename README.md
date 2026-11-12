@@ -17,7 +17,7 @@
 - [PAO](https://github.com/Abhinav-Prabhakar/PAO) — Memorize numbers in PAO, drawn in ASCII 🉑
 - [Papyrus](https://github.com/Abhinav-Prabhakar/Papyrus) — Turn textbooks into tests at scroll speed 📜
 - [Redpen](https://github.com/Abhinav-Prabhakar/Redpen) — Adaptive interview assessments with rubric-based scoring 🖍️
-- [Teacher](https://github.com/Abhinav-Prabhakar/Teacher) — An LLM Teacher with a whiteboard 🧑‍🏫
+- [Teacher](https://github.com/Abhinav-Prabhakar/Teacher) — An LLM Teacher with whiteboard powers! 🧑‍🏫🪄
 - [Wordy](https://github.com/Abhinav-Prabhakar/Wordy) — Glossy TUI for rare, useful vocabulary 🧋✨
 
 ### 📖 One-Liner Definitions
