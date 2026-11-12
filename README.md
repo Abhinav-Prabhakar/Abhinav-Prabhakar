@@ -12,7 +12,6 @@
 ### 📚 Learning & Exams
 - [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
 - [Flipwise](https://github.com/Abhinav-Prabhakar/Flipwise) — Conjure flashcards in a flash ✨
-- [Fold](https://github.com/Abhinav-Prabhakar/Fold) — 5-minute book summaries to fuel your mind 📚✨
 - [Folio](https://github.com/Abhinav-Prabhakar/Folio) — Six classics a day, then a quiz on what stuck 📚🖋️
 - [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
 - [PAO](https://github.com/Abhinav-Prabhakar/PAO) — Memorize numbers in PAO, drawn in ASCII 🉑
