@@ -110,6 +110,7 @@
 - [Vista](https://github.com/Abhinav-Prabhakar/Vista) — Control your MG EV from your phone 📱
 
 ### 🎵 Music & Audio
+- [Gigwire](https://github.com/Abhinav-Prabhakar/Gigwire) — Connecting musicians and venues 🎸🎹
 - [KeyChange](https://github.com/Abhinav-Prabhakar/KeyChange) — Turn any MIDI piano into a keyboard 🎹
 
 ### ♟️ Chess & Games
