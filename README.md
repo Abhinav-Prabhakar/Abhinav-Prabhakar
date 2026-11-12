@@ -60,8 +60,8 @@
 
 ### 🔌 MCP Servers
 - [AnnasArchiveMCP](https://github.com/Abhinav-Prabhakar/AnnasArchiveMCP) — Rust MCP server for book search and safe downloads 📦
-- [BookDownloaderMCP](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) — A nifty little MCP Server for quickly downloading books!
-- [MonkeytypeMCP](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) — An MCP server for monkeytype.com that exposes all of their API endpoints.
+- [BookDownloaderMCP](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) — Search Library Genesis and download ebooks from any MCP client 📚
+- [MonkeytypeMCP](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) — Typing stats, results and leaderboards from Monkeytype in your MCP client ⌨️
 
 ### 🔧 Developer Tools
 - [Board](https://github.com/Abhinav-Prabhakar/Board) — A local-first, collaborative whiteboard app built for devs 📟
