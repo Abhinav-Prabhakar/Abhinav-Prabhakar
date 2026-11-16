@@ -12,10 +12,16 @@
 ### 📚 Learning & Exams
 - [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
 - [Askesis](https://github.com/Abhinav-Prabhakar/Askesis) — Philosophy made accessible to GenZ 🧢
+- [Bitstorm](https://github.com/Abhinav-Prabhakar/Bitstorm) — BITSAT Practice 🙋
+- [CellularAnalysis](https://github.com/Abhinav-Prabhakar/CellularAnalysis) — Analysis of QPSK, 16-QAM and 64-QAM constellations 🌌
 - [Chunky](https://github.com/Abhinav-Prabhakar/Chunky) — RSVP word chunks 🪵
+- [Elemental](https://github.com/Abhinav-Prabhakar/Elemental) — Duo-style periodic table learning 🧪
+- [FlashStudy](https://github.com/Abhinav-Prabhakar/FlashStudy) — Flashcards, CLI 🗂️
 - [Flipwise](https://github.com/Abhinav-Prabhakar/Flipwise) — Conjure flashcards in a flash ✨
 - [Folio](https://github.com/Abhinav-Prabhakar/Folio) — Six classics a day, then a quiz on what stuck 📚🖋️
+- [InteractiveRLCourse](https://github.com/Abhinav-Prabhakar/InteractiveRLCourse) — An approachable guide to RL 🦴🐶
 - [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
+- [MLAtoms](https://github.com/Abhinav-Prabhakar/MLAtoms) — Bible of Machine Learning algorithms 🪐
 - [PAO](https://github.com/Abhinav-Prabhakar/PAO) — Memorize numbers in PAO, drawn in ASCII 🉑
 - [Papyrus](https://github.com/Abhinav-Prabhakar/Papyrus) — Turn textbooks into tests at scroll speed 📜
 - [Redpen](https://github.com/Abhinav-Prabhakar/Redpen) — Adaptive interview assessments with rubric-based scoring 🖍️
@@ -38,6 +44,7 @@
   - [LegalDefinitions](https://github.com/Abhinav-Prabhakar/LegalDefinitions) — Learn US law one-liner definitions ⚖️
 
 ### 💻 Coding & Hackathons
+- [AnttiCP](https://github.com/Abhinav-Prabhakar/AnttiCP) — An interactive, visual edition of Antti Laaksonen's Guide to Competitive Programming 🧑‍🏭
 - [CodingSubRanking](https://github.com/Abhinav-Prabhakar/CodingSubRanking) — Analysis of the best value coding subscriptions, accounting for both monthly allowance + token consumption per task 🧺
 - [GitCode](https://github.com/Abhinav-Prabhakar/GitCode) — Leetcode, but for Git 🖲️
 - [Jury](https://github.com/Abhinav-Prabhakar/Jury) — An AI judging panel for hackathons 🔮📜
@@ -57,6 +64,7 @@
 - [Drift](https://github.com/Abhinav-Prabhakar/Drift) — Fast, refined AI image studio 🌈
 - [Frame](https://github.com/Abhinav-Prabhakar/Frame) — Fast, refined AI image studio 🌈
 - [LittleClaw](https://github.com/Abhinav-Prabhakar/LittleClaw) — Minimal OpenClaw + Bubble Tea TUI 🧉
+- [Oracle](https://github.com/Abhinav-Prabhakar/Oracle) — What Siri should've been 🧑‍🔧
 - [Prompt-Journal](https://github.com/Abhinav-Prabhakar/Prompt-Journal) — Share LLM conversations with friends! 💞
 - [Runway](https://github.com/Abhinav-Prabhakar/Runway) — A pre-flight prototype for an autonomous, Siri-like voice agent. ✈️
 
@@ -66,10 +74,13 @@
 - [MonkeytypeMCP](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) — An MCP server for MonkeyType users! ⌨️
 
 ### 🔧 Developer Tools
+- [Beacon](https://github.com/Abhinav-Prabhakar/Beacon) — Cursor wouldn’t let me cook. So I opened my own kitchen. 🧑‍🍳
 - [Board](https://github.com/Abhinav-Prabhakar/Board) — A local-first, collaborative whiteboard app built for devs 📟
 - [Cellar](https://github.com/Abhinav-Prabhakar/Cellar) — A visual field guide to sixteen Homebrew CLI tools 🦹
 - [comp2resp](https://github.com/Abhinav-Prabhakar/comp2resp) — Convert /chat/completions into /responses APIs for openai compatible endpoints 🔌
+- [Defndr](https://github.com/Abhinav-Prabhakar/Defndr) — Decentralised human auth verification 👮
 - [Meow](https://github.com/Abhinav-Prabhakar/Meow) — Vibe-coder friendly Git CLI 😼
+- [Pixello](https://github.com/Abhinav-Prabhakar/Pixello) — Pixellate anything 👽
 - [ReactSpeedrunTools](https://github.com/Abhinav-Prabhakar/ReactSpeedrunTools) — Tools to speedrun development 🏎️
 
 ### ⏱ Productivity & Habits
@@ -80,6 +91,7 @@
 - [LinkVault](https://github.com/Abhinav-Prabhakar/LinkVault) — Offline vault for the chronically curious. AI if you want it. 🗃️✨
 - [Luma](https://github.com/Abhinav-Prabhakar/Luma) — A friendly cat that hears you out while you journal 🐱📓
 - [Meridian](https://github.com/Abhinav-Prabhakar/Meridian) — Every teammate, every timeline, one beautiful calendar ✨
+- [SageBar](https://github.com/Abhinav-Prabhakar/SageBar) — Stick your goal to the MacOS status bar ⚽️
 - **WhatsApp**
   - [Whatschedule](https://github.com/Abhinav-Prabhakar/Whatschedule) — Fast, resilient Rust CLI for scheduling WhatsApp messages, groups, and media 📦
   - [WhatsappModerator](https://github.com/Abhinav-Prabhakar/WhatsappModerator) — Moderate Whatsapp group messages 👮
@@ -116,6 +128,12 @@
 - [KeyChange](https://github.com/Abhinav-Prabhakar/KeyChange) — Turn any MIDI piano into a keyboard 🎹
 
 ### ♟️ Chess & Games
+- [chess.com](https://github.com/Abhinav-Prabhakar/chess.com) — Chess.com, but offline 🎃
+- [Chessbook](https://github.com/Abhinav-Prabhakar/Chessbook) — Chess opening repertoire trainer 🏁
 - [EloGrapher](https://github.com/Abhinav-Prabhakar/EloGrapher) — Compare your chess rating with friends, do whatever 👀
+- [Lumosity](https://github.com/Abhinav-Prabhakar/Lumosity) — Lumosity, but offline ⛲️
+- [MemorySquared](https://github.com/Abhinav-Prabhakar/MemorySquared) — Improve visual memory 🪩
 - [PiTiles](https://github.com/Abhinav-Prabhakar/PiTiles) — Piano tiles for π, with MIDI support 🥧
+- [Tetris](https://github.com/Abhinav-Prabhakar/Tetris) — Variants of Tetris 🍰
 - [ThinkFish2](https://github.com/Abhinav-Prabhakar/ThinkFish2) — MCP server pairing Stockfish with an LLM for chess analysis ♟️
+- [TicTacToeRL](https://github.com/Abhinav-Prabhakar/TicTacToeRL) — TicTacToe, with RL 🐈
