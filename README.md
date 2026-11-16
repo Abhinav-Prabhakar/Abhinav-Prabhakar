@@ -10,130 +10,146 @@
 **Jump to:** [Learning](#-learning--exams) · [Definitions](#-one-liner-definitions) · [Coding & Hackathons](#-coding--hackathons) · [Campus](#-campus--community) · [AI Apps](#-ai-apps--agents) · [MCP Servers](#-mcp-servers) · [Dev Tools](#-developer-tools) · [Productivity](#-productivity--habits) · [Health & Food](#-health--food) · [Safety & Cities](#-safety-law--cities) · [Logistics](#-logistics--industry) · [Retail](#%EF%B8%8F-retail--hospitality) · [Hardware](#-hardware--iot) · [Music & Audio](#-music--audio) · [Chess & Games](#%EF%B8%8F-chess--games)
 
 ### 📚 Learning & Exams
-- [10k](https://github.com/Abhinav-Prabhakar/10k) — Attain mastery in a subject through 10k hours of practice 💪
-- [Askesis](https://github.com/Abhinav-Prabhakar/Askesis) — Philosophy made accessible to GenZ 🧢
-- [Bitstorm](https://github.com/Abhinav-Prabhakar/Bitstorm) — BITSAT Practice 🙋
-- [CellularAnalysis](https://github.com/Abhinav-Prabhakar/CellularAnalysis) — Analysis of QPSK, 16-QAM and 64-QAM constellations 🌌
-- [Chunky](https://github.com/Abhinav-Prabhakar/Chunky) — RSVP word chunks 🪵
-- [Elemental](https://github.com/Abhinav-Prabhakar/Elemental) — Duo-style periodic table learning 🧪
-- [FlashStudy](https://github.com/Abhinav-Prabhakar/FlashStudy) — Flashcards, CLI 🗂️
-- [Flipwise](https://github.com/Abhinav-Prabhakar/Flipwise) — Conjure flashcards in a flash ✨
-- [Folio](https://github.com/Abhinav-Prabhakar/Folio) — Six classics a day, then a quiz on what stuck 📚🖋️
-- [InteractiveRLCourse](https://github.com/Abhinav-Prabhakar/InteractiveRLCourse) — An approachable guide to RL 🦴🐶
-- [JEETracker](https://github.com/Abhinav-Prabhakar/JEETracker) — Track your JEE Questions 🏋
-- [MLAtoms](https://github.com/Abhinav-Prabhakar/MLAtoms) — Bible of Machine Learning algorithms 🪐
-- [PAO](https://github.com/Abhinav-Prabhakar/PAO) — Memorize numbers in PAO, drawn in ASCII 🉑
-- [Papyrus](https://github.com/Abhinav-Prabhakar/Papyrus) — Turn textbooks into tests at scroll speed 📜
-- [Redpen](https://github.com/Abhinav-Prabhakar/Redpen) — Adaptive interview assessments with rubric-based scoring 🖍️
-- [Teacher](https://github.com/Abhinav-Prabhakar/Teacher) — An LLM Teacher with whiteboard powers! 🧑‍🏫🪄
-- [Wordy](https://github.com/Abhinav-Prabhakar/Wordy) — Glossy TUI for rare, useful vocabulary 🧋✨
+
+|  |  |
+|:--|:--|
+| **[10k](/Abhinav-Prabhakar/10k)** — Attain mastery in a subject through 10k hours of practice 💪 | **[Askesis](/Abhinav-Prabhakar/Askesis)** — Philosophy made accessible to GenZ 🧢 |
+| **[Bitstorm](/Abhinav-Prabhakar/Bitstorm)** — BITSAT Practice 🙋 | **[CellularAnalysis](/Abhinav-Prabhakar/CellularAnalysis)** — Analysis of QPSK, 16-QAM and 64-QAM constellations 🌌 |
+| **[Chunky](/Abhinav-Prabhakar/Chunky)** — RSVP word chunks 🪵 | **[Elemental](/Abhinav-Prabhakar/Elemental)** — Duo-style periodic table learning 🧪 |
+| **[FlashStudy](/Abhinav-Prabhakar/FlashStudy)** — Flashcards, CLI 🗂️ | **[Flipwise](/Abhinav-Prabhakar/Flipwise)** — Conjure flashcards in a flash ✨ |
+| **[Folio](/Abhinav-Prabhakar/Folio)** — Six classics a day, then a quiz on what stuck 📚🖋️ | **[InteractiveRLCourse](/Abhinav-Prabhakar/InteractiveRLCourse)** — An approachable guide to RL 🦴🐶 |
+| **[JEETracker](/Abhinav-Prabhakar/JEETracker)** — Track your JEE Questions 🏋 | **[MLAtoms](/Abhinav-Prabhakar/MLAtoms)** — Bible of Machine Learning algorithms 🪐 |
+| **[PAO](/Abhinav-Prabhakar/PAO)** — Memorize numbers in PAO, drawn in ASCII 🉑 | **[Papyrus](/Abhinav-Prabhakar/Papyrus)** — Turn textbooks into tests at scroll speed 📜 |
+| **[Redpen](/Abhinav-Prabhakar/Redpen)** — Adaptive interview assessments with rubric-based scoring 🖍️ | **[Teacher](/Abhinav-Prabhakar/Teacher)** — An LLM Teacher with whiteboard powers! 🧑‍🏫🪄 |
+| **[Wordy](/Abhinav-Prabhakar/Wordy)** — Glossy TUI for rare, useful vocabulary 🧋✨ |  |
+
 
 ### 📖 One-Liner Definitions
-- **Engineering & Trades**
-  - [ECEDefinitions](https://github.com/Abhinav-Prabhakar/ECEDefinitions) — Learn ECE one-liner definitions 🔋
-  - [HVACDefinitions](https://github.com/Abhinav-Prabhakar/HVACDefinitions) — Learn HVAC one-liner definitions ❄️
-  - [NECDefinitions](https://github.com/Abhinav-Prabhakar/NECDefinitions) — Learn NEC electrical code one-liner definitions ⚡
-  - [PlumbingDefinitions](https://github.com/Abhinav-Prabhakar/PlumbingDefinitions) — Learn plumbing code one-liner definitions 🚰
-  - [SoftwareDefinitions](https://github.com/Abhinav-Prabhakar/SoftwareDefinitions) — Learn software interview one-liner definitions 💻
-- **Health & Medicine**
-  - [AnatomyDefinitions](https://github.com/Abhinav-Prabhakar/AnatomyDefinitions) — Learn anatomy one-liner definitions 🫀
-  - [MedicalDefinitions](https://github.com/Abhinav-Prabhakar/MedicalDefinitions) — Learn medical terminology one-liner definitions 🩺
-  - [NursingDefinitions](https://github.com/Abhinav-Prabhakar/NursingDefinitions) — Learn NCLEX nursing one-liner definitions 🩹
-  - [PharmacologyDefinitions](https://github.com/Abhinav-Prabhakar/PharmacologyDefinitions) — Learn pharmacology one-liner definitions 💊
-- **Law**
-  - [LegalDefinitions](https://github.com/Abhinav-Prabhakar/LegalDefinitions) — Learn US law one-liner definitions ⚖️
+
+|  |  |
+|:--|:--|
+| **Engineering & Trades** |  |
+| **[ECEDefinitions](/Abhinav-Prabhakar/ECEDefinitions)** — Learn ECE one-liner definitions 🔋 | **[HVACDefinitions](/Abhinav-Prabhakar/HVACDefinitions)** — Learn HVAC one-liner definitions ❄️ |
+| **[NECDefinitions](/Abhinav-Prabhakar/NECDefinitions)** — Learn NEC electrical code one-liner definitions ⚡ | **[PlumbingDefinitions](/Abhinav-Prabhakar/PlumbingDefinitions)** — Learn plumbing code one-liner definitions 🚰 |
+| **[SoftwareDefinitions](/Abhinav-Prabhakar/SoftwareDefinitions)** — Learn software interview one-liner definitions 💻 |  |
+| **Health & Medicine** |  |
+| **[AnatomyDefinitions](/Abhinav-Prabhakar/AnatomyDefinitions)** — Learn anatomy one-liner definitions 🫀 | **[MedicalDefinitions](/Abhinav-Prabhakar/MedicalDefinitions)** — Learn medical terminology one-liner definitions 🩺 |
+| **[NursingDefinitions](/Abhinav-Prabhakar/NursingDefinitions)** — Learn NCLEX nursing one-liner definitions 🩹 | **[PharmacologyDefinitions](/Abhinav-Prabhakar/PharmacologyDefinitions)** — Learn pharmacology one-liner definitions 💊 |
+| **Law** |  |
+| **[LegalDefinitions](/Abhinav-Prabhakar/LegalDefinitions)** — Learn US law one-liner definitions ⚖️ |  |
+
 
 ### 💻 Coding & Hackathons
-- [AnttiCP](https://github.com/Abhinav-Prabhakar/AnttiCP) — An interactive, visual edition of Antti Laaksonen's Guide to Competitive Programming 🧑‍🏭
-- [CodingSubRanking](https://github.com/Abhinav-Prabhakar/CodingSubRanking) — Analysis of the best value coding subscriptions, accounting for both monthly allowance + token consumption per task 🧺
-- [GitCode](https://github.com/Abhinav-Prabhakar/GitCode) — Leetcode, but for Git 🖲️
-- [Jury](https://github.com/Abhinav-Prabhakar/Jury) — An AI judging panel for hackathons 🔮📜
-- [LeetGo](https://github.com/Abhinav-Prabhakar/LeetGo) — A tiny bot tracking your LeetCode wins 🔥
-- **Unstop hackathon search**
-  - [UnstopAPI](https://github.com/Abhinav-Prabhakar/UnstopAPI) — Search Unstop hackathons with a clean Python API 👀
-  - [UnstopCLI](https://github.com/Abhinav-Prabhakar/UnstopCLI) — Search Unstop hackathons from your terminal ⚡
-  - [UnstopMCP](https://github.com/Abhinav-Prabhakar/UnstopMCP) — Tiny, fast MCP server for searching Unstop hackathons 🤖⚡
+
+|  |  |
+|:--|:--|
+| **[AnttiCP](/Abhinav-Prabhakar/AnttiCP)** — An interactive, visual edition of Antti Laaksonen's Guide to Competitive Programming 🧑‍🏭 | **[CodingSubRanking](/Abhinav-Prabhakar/CodingSubRanking)** — Analysis of the best value coding subscriptions, accounting for both monthly allowance + token consumption per task 🧺 |
+| **[GitCode](/Abhinav-Prabhakar/GitCode)** — Leetcode, but for Git 🖲️ | **[Jury](/Abhinav-Prabhakar/Jury)** — An AI judging panel for hackathons 🔮📜 |
+| **[LeetGo](/Abhinav-Prabhakar/LeetGo)** — A tiny bot tracking your LeetCode wins 🔥 |  |
+| **Unstop hackathon search** |  |
+| **[UnstopAPI](/Abhinav-Prabhakar/UnstopAPI)** — Search Unstop hackathons with a clean Python API 👀 | **[UnstopCLI](/Abhinav-Prabhakar/UnstopCLI)** — Search Unstop hackathons from your terminal ⚡ |
+| **[UnstopMCP](/Abhinav-Prabhakar/UnstopMCP)** — Tiny, fast MCP server for searching Unstop hackathons 🤖⚡ |  |
+
 
 ### 🏫 Campus & Community
-- [CampusGenie](https://github.com/Abhinav-Prabhakar/CampusGenie) — Ask anything about your college campus 🧞
-- [CNPDepartment](https://github.com/Abhinav-Prabhakar/CNPDepartment) — Student Managed Clubs and GUIITAR Projects at GSFC University. 🏄
-- [CodingClub](https://github.com/Abhinav-Prabhakar/CodingClub) — Windows XP Style Landing for our college's coding club 📟
-- [JusticeLeagues](https://github.com/Abhinav-Prabhakar/JusticeLeagues) — Helping citizens organise community efforts in building better societies 🦋
+
+|  |  |
+|:--|:--|
+| **[CampusGenie](/Abhinav-Prabhakar/CampusGenie)** — Ask anything about your college campus 🧞 | **[CNPDepartment](/Abhinav-Prabhakar/CNPDepartment)** — Student Managed Clubs and GUIITAR Projects at GSFC University. 🏄 |
+| **[CodingClub](/Abhinav-Prabhakar/CodingClub)** — Windows XP Style Landing for our college's coding club 📟 | **[JusticeLeagues](/Abhinav-Prabhakar/JusticeLeagues)** — Helping citizens organise community efforts in building better societies 🦋 |
+
 
 ### 🤖 AI Apps & Agents
-- [Drift](https://github.com/Abhinav-Prabhakar/Drift) — Fast, refined AI image studio 🌈
-- [Frame](https://github.com/Abhinav-Prabhakar/Frame) — Fast, refined AI image studio 🌈
-- [LittleClaw](https://github.com/Abhinav-Prabhakar/LittleClaw) — Minimal OpenClaw + Bubble Tea TUI 🧉
-- [Oracle](https://github.com/Abhinav-Prabhakar/Oracle) — What Siri should've been 🧑‍🔧
-- [Prompt-Journal](https://github.com/Abhinav-Prabhakar/Prompt-Journal) — Share LLM conversations with friends! 💞
-- [Runway](https://github.com/Abhinav-Prabhakar/Runway) — A pre-flight prototype for an autonomous, Siri-like voice agent. ✈️
+
+|  |  |
+|:--|:--|
+| **[Drift](/Abhinav-Prabhakar/Drift)** — Fast, refined AI image studio 🌈 | **[Frame](/Abhinav-Prabhakar/Frame)** — Fast, refined AI image studio 🌈 |
+| **[LittleClaw](/Abhinav-Prabhakar/LittleClaw)** — Minimal OpenClaw + Bubble Tea TUI 🧉 | **[Oracle](/Abhinav-Prabhakar/Oracle)** — What Siri should've been 🧑‍🔧 |
+| **[Prompt-Journal](/Abhinav-Prabhakar/Prompt-Journal)** — Share LLM conversations with friends! 💞 | **[Runway](/Abhinav-Prabhakar/Runway)** — A pre-flight prototype for an autonomous, Siri-like voice agent. ✈️ |
+
 
 ### 🔌 MCP Servers
-- [AnnasArchiveMCP](https://github.com/Abhinav-Prabhakar/AnnasArchiveMCP) — Rust MCP server for book search and safe downloads 📦
-- [BookDownloaderMCP](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) — An MCP server for quickly downloading books! 📕
-- [MonkeytypeMCP](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) — An MCP server for MonkeyType users! ⌨️
+
+|  |  |
+|:--|:--|
+| **[AnnasArchiveMCP](/Abhinav-Prabhakar/AnnasArchiveMCP)** — Rust MCP server for book search and safe downloads 📦 | **[BookDownloaderMCP](/Abhinav-Prabhakar/BookDownloaderMCP)** — An MCP server for quickly downloading books! 📕 |
+| **[MonkeytypeMCP](/Abhinav-Prabhakar/MonkeytypeMCP)** — An MCP server for MonkeyType users! ⌨️ |  |
+
 
 ### 🔧 Developer Tools
-- [Beacon](https://github.com/Abhinav-Prabhakar/Beacon) — Cursor wouldn’t let me cook. So I opened my own kitchen. 🧑‍🍳
-- [Board](https://github.com/Abhinav-Prabhakar/Board) — A local-first, collaborative whiteboard app built for devs 📟
-- [Cellar](https://github.com/Abhinav-Prabhakar/Cellar) — A visual field guide to sixteen Homebrew CLI tools 🦹
-- [comp2resp](https://github.com/Abhinav-Prabhakar/comp2resp) — Convert /chat/completions into /responses APIs for openai compatible endpoints 🔌
-- [Defndr](https://github.com/Abhinav-Prabhakar/Defndr) — Decentralised human auth verification 👮
-- [Meow](https://github.com/Abhinav-Prabhakar/Meow) — Vibe-coder friendly Git CLI 😼
-- [Pixello](https://github.com/Abhinav-Prabhakar/Pixello) — Pixellate anything 👽
-- [ReactSpeedrunTools](https://github.com/Abhinav-Prabhakar/ReactSpeedrunTools) — Tools to speedrun development 🏎️
+
+|  |  |
+|:--|:--|
+| **[Beacon](/Abhinav-Prabhakar/Beacon)** — Cursor wouldn’t let me cook. So I opened my own kitchen. 🧑‍🍳 | **[Board](/Abhinav-Prabhakar/Board)** — A local-first, collaborative whiteboard app built for devs 📟 |
+| **[Cellar](/Abhinav-Prabhakar/Cellar)** — A visual field guide to sixteen Homebrew CLI tools 🦹 | **[comp2resp](/Abhinav-Prabhakar/comp2resp)** — Convert /chat/completions into /responses APIs for openai compatible endpoints 🔌 |
+| **[Defndr](/Abhinav-Prabhakar/Defndr)** — Decentralised human auth verification 👮 | **[Meow](/Abhinav-Prabhakar/Meow)** — Vibe-coder friendly Git CLI 😼 |
+| **[Pixello](/Abhinav-Prabhakar/Pixello)** — Pixellate anything 👽 | **[ReactSpeedrunTools](/Abhinav-Prabhakar/ReactSpeedrunTools)** — Tools to speedrun development 🏎️ |
+
 
 ### ⏱ Productivity & Habits
-- [CueScreenWriter](https://github.com/Abhinav-Prabhakar/CueScreenWriter) — Screenplay writing app for MacOS 🎬
-- [GrainCLI](https://github.com/Abhinav-Prabhakar/GrainCLI) — Ritual-based focus tracker for the terminal. Zero sync. Zero bloat. Just credits 🧠 and breaks ☕
-- [Habie](https://github.com/Abhinav-Prabhakar/Habie) — Your usual habit tracker, that's all ✨💫
-- [LifeOS](https://github.com/Abhinav-Prabhakar/LifeOS) — Gamifying life ✨🎮
-- [LinkVault](https://github.com/Abhinav-Prabhakar/LinkVault) — Offline vault for the chronically curious. AI if you want it. 🗃️✨
-- [Luma](https://github.com/Abhinav-Prabhakar/Luma) — A friendly cat that hears you out while you journal 🐱📓
-- [Meridian](https://github.com/Abhinav-Prabhakar/Meridian) — Every teammate, every timeline, one beautiful calendar ✨
-- [SageBar](https://github.com/Abhinav-Prabhakar/SageBar) — Stick your goal to the MacOS status bar ⚽️
-- **WhatsApp**
-  - [Whatschedule](https://github.com/Abhinav-Prabhakar/Whatschedule) — Fast, resilient Rust CLI for scheduling WhatsApp messages, groups, and media 📦
-  - [WhatsappModerator](https://github.com/Abhinav-Prabhakar/WhatsappModerator) — Moderate Whatsapp group messages 👮
+
+|  |  |
+|:--|:--|
+| **[CueScreenWriter](/Abhinav-Prabhakar/CueScreenWriter)** — Screenplay writing app for MacOS 🎬 | **[GrainCLI](/Abhinav-Prabhakar/GrainCLI)** — Ritual-based focus tracker for the terminal. Zero sync. Zero bloat. Just credits 🧠 and breaks ☕ |
+| **[Habie](/Abhinav-Prabhakar/Habie)** — Your usual habit tracker, that's all ✨💫 | **[LifeOS](/Abhinav-Prabhakar/LifeOS)** — Gamifying life ✨🎮 |
+| **[LinkVault](/Abhinav-Prabhakar/LinkVault)** — Offline vault for the chronically curious. AI if you want it. 🗃️✨ | **[Luma](/Abhinav-Prabhakar/Luma)** — A friendly cat that hears you out while you journal 🐱📓 |
+| **[Meridian](/Abhinav-Prabhakar/Meridian)** — Every teammate, every timeline, one beautiful calendar ✨ | **[SageBar](/Abhinav-Prabhakar/SageBar)** — Stick your goal to the MacOS status bar ⚽️ |
+| **WhatsApp** |  |
+| **[Whatschedule](/Abhinav-Prabhakar/Whatschedule)** — Fast, resilient Rust CLI for scheduling WhatsApp messages, groups, and media 📦 | **[WhatsappModerator](/Abhinav-Prabhakar/WhatsappModerator)** — Moderate Whatsapp group messages 👮 |
+
 
 ### 🏥 Health & Food
-- [Lunchly](https://github.com/Abhinav-Prabhakar/Lunchly) — Plan and analyse your kids' school lunches 🥪
-- [MaxWell](https://github.com/Abhinav-Prabhakar/MaxWell) — Triage-first AI healthcare assistant for rural settings 🩺
-- [Pantry](https://github.com/Abhinav-Prabhakar/Pantry) — A week of food planned around your nutrient targets 🍏🥐
-- [Warden](https://github.com/Abhinav-Prabhakar/Warden) — The ward, at a glance. 🏥
+
+|  |  |
+|:--|:--|
+| **[Lunchly](/Abhinav-Prabhakar/Lunchly)** — Plan and analyse your kids' school lunches 🥪 | **[MaxWell](/Abhinav-Prabhakar/MaxWell)** — Triage-first AI healthcare assistant for rural settings 🩺 |
+| **[Pantry](/Abhinav-Prabhakar/Pantry)** — A week of food planned around your nutrient targets 🍏🥐 | **[Warden](/Abhinav-Prabhakar/Warden)** — The ward, at a glance. 🏥 |
+
 
 ### 🚨 Safety, Law & Cities
-- [CrimeLens](https://github.com/Abhinav-Prabhakar/CrimeLens) — See the network behind the evidence. 🕸️
-- [Cockpit](https://github.com/Abhinav-Prabhakar/Cockpit) — Mission control for the firehouse. 🚒🔥
-- [Sentry](https://github.com/Abhinav-Prabhakar/Sentry) — Track risks across continents 🗺️
-- [Siren](https://github.com/Abhinav-Prabhakar/Siren) — AI agent that dispatches and coordinates fire station crews, vehicles and equipment 🚒
-- [ProjectMetro](https://github.com/Abhinav-Prabhakar/ProjectMetro) — Live-tracking for all Indian metros 🚇🇮🇳
-- [Verge](https://github.com/Abhinav-Prabhakar/Verge) — AI-driven smart traffic monitoring and analytics 🚦
+
+|  |  |
+|:--|:--|
+| **[CrimeLens](/Abhinav-Prabhakar/CrimeLens)** — See the network behind the evidence. 🕸️ | **[Cockpit](/Abhinav-Prabhakar/Cockpit)** — Mission control for the firehouse. 🚒🔥 |
+| **[Sentry](/Abhinav-Prabhakar/Sentry)** — Track risks across continents 🗺️ | **[Siren](/Abhinav-Prabhakar/Siren)** — AI agent that dispatches and coordinates fire station crews, vehicles and equipment 🚒 |
+| **[ProjectMetro](/Abhinav-Prabhakar/ProjectMetro)** — Live-tracking for all Indian metros 🚇🇮🇳 | **[Verge](/Abhinav-Prabhakar/Verge)** — AI-driven smart traffic monitoring and analytics 🚦 |
+
 
 ### 🚚 Logistics & Industry
-- [Dock](https://github.com/Abhinav-Prabhakar/Dock) — Airlines have dynamic pricing. Ships should too. 🚢✈️
-- [Mantle](https://github.com/Abhinav-Prabhakar/Mantle) — Keep the pump alive. 🛢️🔥
-- [RakeMeter](https://github.com/Abhinav-Prabhakar/RakeMeter) — Plan the unloading, audit the railway's bill. 🚂
+
+|  |  |
+|:--|:--|
+| **[Dock](/Abhinav-Prabhakar/Dock)** — Airlines have dynamic pricing. Ships should too. 🚢✈️ | **[Mantle](/Abhinav-Prabhakar/Mantle)** — Keep the pump alive. 🛢️🔥 |
+| **[RakeMeter](/Abhinav-Prabhakar/RakeMeter)** — Plan the unloading, audit the railway's bill. 🚂 |  |
+
 
 ### 🛍️ Retail & Hospitality
-- [Brew](https://github.com/Abhinav-Prabhakar/Brew) — The cafe that learns. 🥐🤎
-- [Parlor](https://github.com/Abhinav-Prabhakar/Parlor) — Every store, every channel, one clear picture. 🛍️
+
+|  |  |
+|:--|:--|
+| **[Brew](/Abhinav-Prabhakar/Brew)** — The cafe that learns. 🥐🤎 | **[Parlor](/Abhinav-Prabhakar/Parlor)** — Every store, every channel, one clear picture. 🛍️ |
+
 
 ### 🌱 Hardware & IoT
-- [Vera](https://github.com/Abhinav-Prabhakar/Vera) — Hydroponic Greenhouse on ESP8266 hardware 🌱
-- [Vista](https://github.com/Abhinav-Prabhakar/Vista) — Control your MG EV from your phone 📱
+
+|  |  |
+|:--|:--|
+| **[Vera](/Abhinav-Prabhakar/Vera)** — Hydroponic Greenhouse on ESP8266 hardware 🌱 | **[Vista](/Abhinav-Prabhakar/Vista)** — Control your MG EV from your phone 📱 |
+
 
 ### 🎵 Music & Audio
-- [Gigwire](https://github.com/Abhinav-Prabhakar/Gigwire) — Connecting musicians and venues 🎸🎹
-- [KeyChange](https://github.com/Abhinav-Prabhakar/KeyChange) — Turn any MIDI piano into a keyboard 🎹
+
+|  |  |
+|:--|:--|
+| **[Gigwire](/Abhinav-Prabhakar/Gigwire)** — Connecting musicians and venues 🎸🎹 | **[KeyChange](/Abhinav-Prabhakar/KeyChange)** — Turn any MIDI piano into a keyboard 🎹 |
+
 
 ### ♟️ Chess & Games
-- [chess.com](https://github.com/Abhinav-Prabhakar/chess.com) — Chess.com, but offline 🎃
-- [Chessbook](https://github.com/Abhinav-Prabhakar/Chessbook) — Chess opening repertoire trainer 🏁
-- [EloGrapher](https://github.com/Abhinav-Prabhakar/EloGrapher) — Compare your chess rating with friends, do whatever 👀
-- [Lumosity](https://github.com/Abhinav-Prabhakar/Lumosity) — Lumosity, but offline ⛲️
-- [MemorySquared](https://github.com/Abhinav-Prabhakar/MemorySquared) — Improve visual memory 🪩
-- [PiTiles](https://github.com/Abhinav-Prabhakar/PiTiles) — Piano tiles for π, with MIDI support 🥧
-- [Tetris](https://github.com/Abhinav-Prabhakar/Tetris) — Variants of Tetris 🍰
-- [ThinkFish2](https://github.com/Abhinav-Prabhakar/ThinkFish2) — MCP server pairing Stockfish with an LLM for chess analysis ♟️
-- [TicTacToeRL](https://github.com/Abhinav-Prabhakar/TicTacToeRL) — TicTacToe, with RL 🐈
+
+|  |  |
+|:--|:--|
+| **[chess.com](/Abhinav-Prabhakar/chess.com)** — Chess.com, but offline 🎃 | **[Chessbook](/Abhinav-Prabhakar/Chessbook)** — Chess opening repertoire trainer 🏁 |
+| **[EloGrapher](/Abhinav-Prabhakar/EloGrapher)** — Compare your chess rating with friends, do whatever 👀 | **[Lumosity](/Abhinav-Prabhakar/Lumosity)** — Lumosity, but offline ⛲️ |
+| **[MemorySquared](/Abhinav-Prabhakar/MemorySquared)** — Improve visual memory 🪩 | **[PiTiles](/Abhinav-Prabhakar/PiTiles)** — Piano tiles for π, with MIDI support 🥧 |
+| **[Tetris](/Abhinav-Prabhakar/Tetris)** — Variants of Tetris 🍰 | **[ThinkFish2](/Abhinav-Prabhakar/ThinkFish2)** — MCP server pairing Stockfish with an LLM for chess analysis ♟️ |
+| **[TicTacToeRL](/Abhinav-Prabhakar/TicTacToeRL)** — TicTacToe, with RL 🐈 |  |
